@@ -1,4 +1,4 @@
-# Wisconsin Autonomous Perception Coding Challenge - Xin Chen Submission
+# Wisconsin Autonomous Computer Vision Challenge - Xin Chen Submission
 
 ## Method
 
